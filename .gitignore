@@ -1,4 +1,5 @@
 parameterFinder-server/target/
 parameterFinder-common/target/
 parameterFinder-agent/target/
+target/
 build/
